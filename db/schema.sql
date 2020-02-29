@@ -14,8 +14,8 @@ CREATE TABLE cats (
 INSERT INTO cats
 (cat_name)
 VALUES 
-('Yaya')
-('Baron')
-('Riley')
+('Yaya'),
+('Baron'),
+('Riley');
 
 SELECT * FROM cats;
